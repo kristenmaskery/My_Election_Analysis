@@ -24,7 +24,7 @@ The analysis of the election illustrates the following:
                                                                                                             
   •	There was a total of **369,711** votes cast in the congressional election
   
-  # •	The counties included were **Jefferson, Denver, and Arapahoe**
+  ### The counties included were **Jefferson, Denver, and Arapahoe**
   
    **1.**	The county of **Jefferson** cast **10.5%** of the total votes in the election, with a total of **38,855** votes cast 
     
@@ -33,7 +33,7 @@ The analysis of the election illustrates the following:
    **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
   •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout 
   
-  # •	The candidates included were: **Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane 
+  ### The candidates included were: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane 
   
    **1.	Charles Casper Stockham** received a total of **85,213** votes, accounting for **23%** of the total vote count
     
