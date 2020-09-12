@@ -21,25 +21,26 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
 
 ## Election-Audit Results:
 The analysis of the election illustrates the following: 
-
+** this text will be bold**
   •	There was a total of 369,711 votes cast in the congressional election
   
-  •	The counties included were *bold Jefferson, Denver, and Arapahoe*bold
+  •	The counties included were **Jefferson, Denver, and Arapahoe**
   
-   o	The county of Jefferson cast 10.5% of the total votes in the election, with a total of 38,855 votes cast 
+   **1.**	The county of **Jefferson** cast **10.5%** of the total votes in the election, with a total of **38,855** votes cast 
     
-   o	The county of Denver cast 82.8% of the total votes in the election, with a total of 306,055 votes cast
+   **2.**	The county of **Denver** cast **82.8%** of the total votes in the election, with a total of **306,055** votes cast
    
-   o	And, the county of Arapahoe cast 6.7% of the total votes in the election, with a total of 24,801 votes cast 
-  •	It can be determined from the results included above that the county of Denver had the largest number of votes 
+   **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
+  •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout 
   
-  •	The candidates included were: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane 
+  •	The candidates included were: **Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane 
   
-   o	Charles Casper Stockham received a total of 85,213 votes, which accounted for 23% of the total vote count
+   **1.	Charles Casper Stockham** received a total of **85,213** votes, accounting for **23%** of the total vote count
     
-   o	Diana DeGette received a total of 272,892 votes, which accounted for 73.8% of the total vote count
+   **2. Diana DeGette** received a total of **272,892** votes, accounting for **73.8%** of the total vote count
    
-   o	Lastly, Raymon Anthony Doane received a total of 11,606 votes, which accounted for 3.1% of the total vote count 
-  •	From the data provided above it is concluded that Diana DeGrette was the winning candidate of the election as she received the largest amount of votes (272,892)     and therefore highest percentage of votes (73.8%)
+   **3.** Lastly, **Raymon Anthony Doane** received a total of **11,606** votes, accounting for **3.1%** of the total vote count 
+   
+  •	From the data provided above it is concluded that **Diana DeGrette** was the winning candidate of the election as she received the largest amount of votes           (272,892) and therefore highest percentage of votes (73.8%)
 
 
