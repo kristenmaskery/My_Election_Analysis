@@ -20,7 +20,7 @@ Data Source: election_results.csv
 Software: Python 3.8.5 and Visual Studio Code, 1.38.1 
 
 ## Election-Audit Results:
-The analysis of the election illustrates the following: 
+### The analysis of the election illustrates the following: 
                                                                                                             
   •	There was a total of **369,711** votes cast in the congressional election
   
