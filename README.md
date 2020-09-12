@@ -5,10 +5,8 @@ In this analysis we have assisted the Colorado Board of Elections Committee empl
 Using the software Python, we will provide Tom with an automated audit process that can be used in various districts and elections. Therefore, we have generated a vote count report to certify the local US Congressional race. This report will provide a two-part analysis pertaining to each candidate and county. In analyzing the candidates, we will perform the following tasks: 
 1.	Calculate the total amount of votes cast in the election
 2.	Compile a list of the candidates who received votes in the election 
-
-  a.	 Thereafter, calculate the number of votes each respective candidate received 
-  b.	Calculate the percentage of votes each candidate received out of the total count
-  
+     a.	 Thereafter, calculate the number of votes each respective candidate received 
+     b.	Calculate the percentage of votes each candidate received out of the total count
 3.	Lastly, determine the winning candidate who received the most votes in the election 
 
 We will perform a similar analysis when analyzing each county:
