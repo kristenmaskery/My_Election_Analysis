@@ -44,4 +44,6 @@ The analysis of the election illustrates the following:
    
   •	From the data provided above it is concluded that **Diana DeGrette** was the winning candidate of the election as she received the largest amount of votes           (272,892) and therefore highest percentage of votes (73.8%)
 
+## Election-Audit Summary:
+
 
