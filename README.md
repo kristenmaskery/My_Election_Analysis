@@ -32,7 +32,8 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    
    **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
    
-  •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout 
+  •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout (**306,055**), and consequently
+    the highest percentage of voter turnout (**82.8%**)
   
   ### The candidates included were: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane 
   
@@ -42,7 +43,7 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    
    **3.** Lastly, **Raymon Anthony Doane** received a total of **11,606** votes, accounting for **3.1%** of the total vote count 
    
-  •	From the data provided above it is concluded that **Diana DeGrette** was the winning candidate of the election as she received the largest amount of votes           (272,892) and therefore highest percentage of votes (73.8%)
+  •	From the data provided above it is concluded that **Diana DeGrette** was the winning candidate of the election as she received the largest amount of votes           (**272,892**), and consequently the highest percentage of votes (**73.8%**)
 
 ## Election-Audit Summary:
 
