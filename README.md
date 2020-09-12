@@ -48,10 +48,10 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
 ## Election-Audit Summary:
 This script provides you the election committee with ample opportunity when performing future electoral audits, this is due to several factors. 
 
-**1. The Script can be Generalized:**
+**1. The Script can be Generalized.**
 Firstly, the script that has been used to audit the Colorado election is a malleable script that with slight modifications can be employed in a variety of elections based upon the data given. For example, it could be employed in a federal election wherein the county data instead encompasses each state rather than county and follows the Republican, Democrat, and/or third-party election results. Therefore, instead of just being limited to a single state we are able to modify the script to provide the election committee with a script to audit the election results of the entire United States. 
 
-**2. Analysis of Demographics:**
+**2. Analysis of Demographics.**
 A second useful component of this script is that it can also offer specificity if we are looking towards certain demographics of voters. For example, we could add a dictionary to the script that would allow us to filter the vote count by each voter’s gender, race, age, etc. By looking at the election results in this manner we are equip to examine the identity politics of the given election which can be resourceful for future or present inquiries. 
 
 
