@@ -5,8 +5,10 @@ In this analysis we have assisted the Colorado Board of Elections Committee empl
 Using the software Python, we will provide Tom with an automated audit process that can be used in various districts and elections. Therefore, we have generated a vote count report to certify the local US Congressional race. This report will provide a two-part analysis pertaining to each candidate and county. In analyzing the candidates, we will perform the following tasks: 
 1.	Calculate the total amount of votes cast in the election
 2.	Compile a list of the candidates who received votes in the election 
-a.	Thereafter, calculate the number of votes each respective candidate received 
-b.	Calculate the percentage of votes each candidate received out of the total count
+
+  a.	 Thereafter, calculate the number of votes each respective candidate received 
+  b.	Calculate the percentage of votes each candidate received out of the total count
+  
 3.	Lastly, determine the winning candidate who received the most votes in the election 
 
 We will perform a similar analysis when analyzing each county:
@@ -31,6 +33,7 @@ The analysis of the election illustrates the following:
    **2.**	The county of **Denver** cast **82.8%** of the total votes in the election, with a total of **306,055** votes cast
    
    **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
+   
   •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout 
   
   ### The candidates included were: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane 
