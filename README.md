@@ -37,7 +37,7 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    
    
    
-  
+   
   •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout (**306,055**), and consequently
     the highest percentage of voter turnout (**82.8%**)
   
