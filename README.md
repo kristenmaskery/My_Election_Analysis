@@ -49,7 +49,7 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    
    **3.** Lastly, **Raymon Anthony Doane** received a total of **11,606** votes, accounting for **3.1%** of the total vote count 
    
-   ![candidates:] (./Resources/candidates.png)
+   ![candidates:](./Resources/candidates.png)
    
   •	From the data provided above it is concluded that **Diana DeGrette** was the winning candidate of the election as she received the largest amount of votes           (**272,892**), and consequently the highest percentage of votes (**73.8%**)
 
