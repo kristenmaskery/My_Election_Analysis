@@ -32,6 +32,7 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    
    **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
    
+   
    ![Election_Results:](./Resources/Election_Results.png)
    
    
