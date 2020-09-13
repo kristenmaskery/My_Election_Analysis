@@ -31,7 +31,11 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    **2.**	The county of **Denver** cast **82.8%** of the total votes in the election, with a total of **306,055** votes cast
    
    **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
+   ![Election_Results:](./Resources/Election_results.png)
    
+   
+   
+  
   •	It can be determined from the results included above that the county of **Denver** had the largest voter turnout (**306,055**), and consequently
     the highest percentage of voter turnout (**82.8%**)
   
