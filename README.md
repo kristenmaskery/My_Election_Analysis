@@ -31,6 +31,7 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    **2.**	The county of **Denver** cast **82.8%** of the total votes in the election, with a total of **306,055** votes cast
    
    **3.**	And, the county of **Arapahoe** cast **6.7%** of the total votes in the election, with a total of **24,801** votes cast 
+   
    ![Election_Results:](./Resources/Election_Results.png)
    
    
@@ -47,6 +48,7 @@ Software: Python 3.8.5 and Visual Studio Code, 1.38.1
    
    **3.** Lastly, **Raymon Anthony Doane** received a total of **11,606** votes, accounting for **3.1%** of the total vote count 
    
+   ![candidates:] (./Resources/candidates.png)
   •	From the data provided above it is concluded that **Diana DeGrette** was the winning candidate of the election as she received the largest amount of votes           (**272,892**), and consequently the highest percentage of votes (**73.8%**)
 
 ## Election-Audit Summary:
